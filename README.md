@@ -1,5 +1,3 @@
-# nifty50-realized-volatility-forecasting
-Quantitative forecasting of NIFTY 50 realized volatility using econometric and machine learning models with cross-sectional market features.
 # Forecasting NIFTY 50 Realized Volatility Using Cross-Sectional Market Features
 
 **An econometric and machine-learning comparison of one-day-ahead volatility forecasts**
