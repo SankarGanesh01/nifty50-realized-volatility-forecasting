@@ -1,0 +1,10 @@
+variable,ADF_p,KPSS_p,conclusion
+RV_target_t1,0.01,0.01,Inconclusive
+rv_gk_t,0.01,0.01,Inconclusive
+rv_month_t,0.01,0.01,Inconclusive
+mkt_log_ret,0.01,0.1,Stationary
+csd_t,0.01,0.01,Inconclusive
+breadth_t,0.01,0.1,Stationary
+avg_stock_vol_t,0.01,0.01,Inconclusive
+total_turnover_t,0.01,0.01,Inconclusive
+mom_22_t,0.01,0.1,Stationary
