@@ -1,0 +1,54 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# R session and workspace files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Local environment variables and credentials
+.env
+.env.*
+!.env.example
+
+# Raw and processed datasets
+data/raw/
+data/processed/
+data/interim/
+data/external/
+*.parquet
+*.feather
+
+# Large local data files
+*.pkl
+*.pickle
+*.joblib
+
+# Local logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE settings
+.vscode/
+.idea/
+
+# Local model artifacts
+models/
